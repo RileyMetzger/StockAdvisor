@@ -1,0 +1,15 @@
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\bin\Debug\net8.0\Stock.Lib.deps.json
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\bin\Debug\net8.0\Stock.Lib.dll
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\bin\Debug\net8.0\Stock.Lib.pdb
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\bin\Debug\net8.0\Metzkins.Data.Lib.dll
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\bin\Debug\net8.0\Metzkins.Data.Lib.pdb
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\obj\Debug\net8.0\Stock.Lib.csproj.AssemblyReference.cache
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\obj\Debug\net8.0\Stock.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\obj\Debug\net8.0\Stock.Lib.AssemblyInfoInputs.cache
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\obj\Debug\net8.0\Stock.Lib.AssemblyInfo.cs
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\obj\Debug\net8.0\Stock.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\obj\Debug\net8.0\Stock.Lib.csproj.Up2Date
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\obj\Debug\net8.0\Stock.Lib.dll
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\obj\Debug\net8.0\refint\Stock.Lib.dll
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\obj\Debug\net8.0\Stock.Lib.pdb
+C:\Users\Sophi\source\repos\StockDoodle\Stock.Lib\obj\Debug\net8.0\ref\Stock.Lib.dll
